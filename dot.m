@@ -2,6 +2,7 @@ f = imread('lena.ppm');
 [sx, sy] = size(f);
 disp(sx);
 disp(sy);
+Sum(1,2)
 figure;
 imshow(f);
 title('lena')
